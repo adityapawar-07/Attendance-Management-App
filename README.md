@@ -38,7 +38,7 @@ AttendanceApp is a web-based application designed for faculty to manage student 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/AttendanceApp.git
+    git clone https://github.com/adityapawar-07/AttendanceApp.git
     ```
 
 2. Place the project folder in the `htdocs` directory of your XAMPP installation:
