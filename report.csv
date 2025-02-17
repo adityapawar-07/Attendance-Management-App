@@ -1,0 +1,15 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CO321-Database management system lab"
+Faculty:,"Ram Charan Baishya"
+total,4
+start,2025-02-17
+end,2025-02-20
+slno,roll_no,name,2025-02-17,2025-02-18,2025-02-19,2025-02-20,attended,percent
+1,CSB21002,"Emily Smith",P,A,P,P,3,75
+2,CSB21004,"Sophia Williams",A,P,A,P,2,50
+3,CSB21007,"Matthew Davis",P,P,P,P,4,100
+4,CSB21008,"Emma Miller",P,A,A,P,2,50
+5,CSM21001,"Liam Garcia",P,P,P,A,3,75
+6,CSM21008,"Ava Johnson",A,A,A,A,0,0
+7,CSM21009,"William Martinez",P,P,P,A,3,75
+8,CSM21012,"Emma Hernandez",A,A,P,A,1,25
